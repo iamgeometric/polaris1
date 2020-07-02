@@ -1837,7 +1837,7 @@ body {
 .cid-s33n0xF8DA {
   background: #121111;
   padding-top: 105px;
-  padding-bottom: 75px;
+  padding-bottom: 30px;
 }
 .cid-s33n0xF8DA .image-block {
   margin: auto;
@@ -1854,6 +1854,11 @@ body {
   .cid-s33n0xF8DA .image-block {
     width: 100% !important;
   }
+}
+.cid-s3xusfrStF {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #121111;
 }
 .cid-s3xqTPWzx4 {
   padding-top: 90px;
